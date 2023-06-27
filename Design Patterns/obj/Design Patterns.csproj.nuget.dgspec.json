@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\Design Patterns\\Design Patterns\\Design Patterns.csproj": {}
+    "d:\\Projetos\\Design Patterns\\Design Patterns\\Design Patterns.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\Design Patterns\\Design Patterns\\Design Patterns.csproj": {
+    "d:\\Projetos\\Design Patterns\\Design Patterns\\Design Patterns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\Design Patterns\\Design Patterns\\Design Patterns.csproj",
+        "projectUniqueName": "d:\\Projetos\\Design Patterns\\Design Patterns\\Design Patterns.csproj",
         "projectName": "Design Patterns",
-        "projectPath": "D:\\Projetos\\Design Patterns\\Design Patterns\\Design Patterns.csproj",
+        "projectPath": "d:\\Projetos\\Design Patterns\\Design Patterns\\Design Patterns.csproj",
         "packagesPath": "C:\\Users\\isaia\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\Design Patterns\\Design Patterns\\obj\\",
+        "outputPath": "d:\\Projetos\\Design Patterns\\Design Patterns\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\isaia\\AppData\\Roaming\\NuGet\\NuGet.Config",
